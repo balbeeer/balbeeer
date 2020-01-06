@@ -715,7 +715,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 /* Clients Section
 --------------------------------*/
 #clients {
-  padding: 90px 0;
+  padding: 30px 0;
 }
 
 #clients img {
@@ -750,7 +750,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 /* Our Portfolio Section
 --------------------------------*/
 #portfolio {
-  padding: 120px 50px;
+  padding: 30px 50px;
   /* color: #ffffff9c; */
   /* background: #0073d6; */
 }
@@ -814,7 +814,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 /* pricing-area */
 .pricing-area{
-	padding:90px 0;
+	padding:40px 0;
 }
 .prc-single {
     text-align: center;
@@ -1052,7 +1052,7 @@ p.help-block li {
 --------------------------------*/
 #team {
   background: #fff;
-  padding: 90px 0 60px;
+  padding: 40px 0 40px;
 }
 
 #team .member {
@@ -1119,7 +1119,7 @@ p.help-block li {
 /* Contact Section
 --------------------------------*/
 #contact {
-  padding: 90px 0;
+  padding: 40px 0;
 }
 
 #contact .contact-info {
